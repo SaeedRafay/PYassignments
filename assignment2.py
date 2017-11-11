@@ -33,7 +33,6 @@ def not_bad(s):
 #  a-front + b-front + a-back + b-back
 def front_back(a, b):
     import math
-    # +++your code here+++
     strA = math.ceil(len(a)/2);
     strB = math.ceil(len(b)/2);
 
